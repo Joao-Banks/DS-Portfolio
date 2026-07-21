@@ -1,89 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: João Banks's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# João Banks
+Computer Science student focused on **machine learning**, **data analysis**, and backend development.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:joao_banks@gmail.com">joao_banks@gmail.com</a>
+| <a href="https://www.linkedin.com/in/joao-banks/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Collaborating and contributing to production-level **AI** and software engineering environments.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+**Machine Learning**, **Data Analysis**, system optimization, and building scalable **ML systems**.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Generative AI applications**, **predictive modeling**, backend services, and leveraging **quantitative metrics** for performance.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019`
+__SENAI__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Informatics Maintenance and Support Technician
+- Configured and optimized 30+ computer systems, improving deployment efficiency by 25%
 
-- Sizar
+`Expected April 2027`
+__Brigham Young University-Idaho__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Bachelor of Science in Computer Science
+- Minor in **AI Engineering** and Emphasis in **Machine Learning**
 
 
-## Awards
+## Awards & Leadership
 
-`2012`
-President, *Royal Society*, London, UK
+`Current`
+Chair member representative, *Student Leadership Council*, Department of Science, Mathematics and Engineering
 
-Associate, *French Academy of Science*, Paris, France
+`Expected 2027`
+GPA: 4.0 - summa cum laude, *Brigham Young University-Idaho*
 
 
+## Technical Skills
 
-## Publications
+<!-- Replaced Publications section to reflect your actual resume data -->
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Data Science & AI
 
-### Journals
+`Libraries/Tools`
+**scikit-learn**, **NumPy**, **Pandas**, **SciPy**, **TensorFlow**, **PyTorch**, Julia, MATLAB, **R**.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Programming & Backend
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Languages/Frameworks`
+**Python**, Java, Node.js, C#, PHP, Ruby, **SQL**, Express.js, Spring / Spring Boot, FastAPI, Flask, Django.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022 - 2023`
+__BEREAL Incubator__, Project Manager
 
-- Warden
-- Minted coins
+- Coordinated a team of 45 developers in the creation of an interactive, visually scalable API for a social media platform.
+- Developed an entire social media ecosystem (HOTSPOT) in 5 months, mitigating network architecture and establishing a semi-autonomous client-server that acquired 5000 subscriptions in only 2 months of operation.
+- Promoted creativity and **quantitative metrics** that led to the exceeding performance and eventual acquisition of HOTSPOT by BeREAL.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019 - 2021`
+__Full-time Ecclesiastical Representative__
 
-
+- Led a community of 360 volunteers in self-improvement and infrastructural projects in 7 countries in Africa.
+- Coordinated logistical planning and strategic meetings that led to the building of 7 elementary schools and philanthropic action that sustained destituted demographics.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->

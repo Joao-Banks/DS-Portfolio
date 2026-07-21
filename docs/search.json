@@ -33,23 +33,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "João Banks’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Computer Science student focused on machine learning, data analysis, and backend development.\n\njoao_banks@gmail.com | My LinkedIn page\n\n\n\nCollaborating and contributing to production-level AI and software engineering environments.\n\n\nMachine Learning, Data Analysis, system optimization, and building scalable ML systems.\n\n\n\nGenerative AI applications, predictive modeling, backend services, and leveraging quantitative metrics for performance.\n\n\n\n\n2017 - 2019 SENAI\n\nInformatics Maintenance and Support Technician\nConfigured and optimized 30+ computer systems, improving deployment efficiency by 25%\n\nExpected April 2027 Brigham Young University-Idaho\n\nBachelor of Science in Computer Science\nMinor in AI Engineering and Emphasis in Machine Learning\n\n\n\n\nCurrent Chair member representative, Student Leadership Council, Department of Science, Mathematics and Engineering\nExpected 2027 GPA: 4.0 - summa cum laude, Brigham Young University-Idaho\n\n\n\n\n\n\nLibraries/Tools scikit-learn, NumPy, Pandas, SciPy, TensorFlow, PyTorch, Julia, MATLAB, R.\n\n\n\nLanguages/Frameworks Python, Java, Node.js, C#, PHP, Ruby, SQL, Express.js, Spring / Spring Boot, FastAPI, Flask, Django.\n\n\n\n\n2022 - 2023 BEREAL Incubator, Project Manager\n\nCoordinated a team of 45 developers in the creation of an interactive, visually scalable API for a social media platform.\nDeveloped an entire social media ecosystem (HOTSPOT) in 5 months, mitigating network architecture and establishing a semi-autonomous client-server that acquired 5000 subscriptions in only 2 months of operation.\nPromoted creativity and quantitative metrics that led to the exceeding performance and eventual acquisition of HOTSPOT by BeREAL.\n\n2019 - 2021 Full-time Ecclesiastical Representative\n\nLed a community of 360 volunteers in self-improvement and infrastructural projects in 7 countries in Africa.\nCoordinated logistical planning and strategic meetings that led to the building of 7 elementary schools and philanthropic action that sustained destituted demographics."
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "João Banks’s CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Collaborating and contributing to production-level AI and software engineering environments.\n\n\nMachine Learning, Data Analysis, system optimization, and building scalable ML systems.\n\n\n\nGenerative AI applications, predictive modeling, backend services, and leveraging quantitative metrics for performance."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "João Banks’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2017 - 2019 SENAI\n\nInformatics Maintenance and Support Technician\nConfigured and optimized 30+ computer systems, improving deployment efficiency by 25%\n\nExpected April 2027 Brigham Young University-Idaho\n\nBachelor of Science in Computer Science\nMinor in AI Engineering and Emphasis in Machine Learning"
   },
   {
     "objectID": "resume.html#awards",
@@ -68,9 +68,9 @@
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "João Banks’s CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2022 - 2023 BEREAL Incubator, Project Manager\n\nCoordinated a team of 45 developers in the creation of an interactive, visually scalable API for a social media platform.\nDeveloped an entire social media ecosystem (HOTSPOT) in 5 months, mitigating network architecture and establishing a semi-autonomous client-server that acquired 5000 subscriptions in only 2 months of operation.\nPromoted creativity and quantitative metrics that led to the exceeding performance and eventual acquisition of HOTSPOT by BeREAL.\n\n2019 - 2021 Full-time Ecclesiastical Representative\n\nLed a community of 360 volunteers in self-improvement and infrastructural projects in 7 countries in Africa.\nCoordinated logistical planning and strategic meetings that led to the building of 7 elementary schools and philanthropic action that sustained destituted demographics."
   },
   {
     "objectID": "Machine_Learning/project3.html",
@@ -363,5 +363,19 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#awards-leadership",
+    "href": "resume.html#awards-leadership",
+    "title": "João Banks’s CV",
+    "section": "",
+    "text": "Current Chair member representative, Student Leadership Council, Department of Science, Mathematics and Engineering\nExpected 2027 GPA: 4.0 - summa cum laude, Brigham Young University-Idaho"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "João Banks’s CV",
+    "section": "",
+    "text": "Libraries/Tools scikit-learn, NumPy, Pandas, SciPy, TensorFlow, PyTorch, Julia, MATLAB, R.\n\n\n\nLanguages/Frameworks Python, Java, Node.js, C#, PHP, Ruby, SQL, Express.js, Spring / Spring Boot, FastAPI, Flask, Django."
   }
 ]
