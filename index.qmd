@@ -1,10 +1,85 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# 👋 Hi there, I'm João Banks
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I'm a passionate and versatile software engineer with a solid foundation in computer science and a diverse skill set across software troubleshooting, systems architecture, and full-stack development. My approach blends analytical thinking with hands-on experience to create innovative solutions that scale and solve real-world problems.
+
+## 🔧 Currently Working On
+
+- Developing a scalable web application with **Google Firebase** for authentication, real-time database, and cloud storage integration.
+- Building full-stack web applications using **Node.js, Express.js, MongoDB,** and **React.js**.
+- Optimizing my portfolio and deploying projects with modern tools like **GitHub Pages** and **Firebase Hosting**.
+
+## 📚 Currently Learning
+
+- **Next.js** for server-side rendering and static site generation.
+- Advanced algorithms and data structures with a focus on performance optimization.
+- Cloud computing practices and DevOps tools, including **Docker**, **Kubernetes**, and **CI/CD**.
+
+## 🤝 Looking to Collaborate On
+
+- Open-source projects that push the boundaries of education, accessibility, and social good.
+- Applications and platforms focused on automation, AI, or data-driven decision making.
+- Machine learning, natural language processing, and data science projects.
+
+## ❓ Ask Me About
+
+- Python scripting for automation and data manipulation.
+- Full-stack web development workflows, from front-end to back-end.
+- Solving complex issues related to distributed systems and cross-platform compatibility.
+
+## 📬 How to Reach Me
+
+- **LinkedIn:** *Add your LinkedIn profile URL here.*
+- **Email:** *Add your email address here.*
+
+## ⚡ Fun Fact
+
+I'm fluent in several languages, and I'm passionate about exploring the intersection between culture, technology, and machine learning to solve global challenges.
+
+# Key Skills
+
+## 💻 Programming Languages
+
+- Python
+- JavaScript
+- TypeScript
+- Java
+- C++
+
+## 🌐 Web Development
+
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+## 🧠 Algorithms & Data Structures
+
+- Graph Theory
+- Dynamic Programming
+- Sorting Algorithms
+- Searching Algorithms
+
+## 🛠️ Tools & Technologies
+
+- Docker
+- Kubernetes
+- AWS
+- Git
+- GitHub Actions
+- RESTful APIs
+- Microservices
+
+## 📈 Other Skills
+
+- Unit Testing
+- CI/CD
+- Agile Methodologies
+- Cloud Architecture
