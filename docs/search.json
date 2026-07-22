@@ -300,9 +300,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I’m a passionate and versatile software engineer with a solid foundation in computer science and a diverse skill set across software troubleshooting, systems architecture, and full-stack development. My approach blends analytical thinking with hands-on experience to create innovative solutions that scale and solve real-world problems.\n\n\n\nDeveloping a scalable web application with Google Firebase for authentication, real-time database, and cloud storage integration.\nBuilding full-stack web applications using Node.js, Express.js, MongoDB, and React.js.\nOptimizing my portfolio and deploying projects with modern tools like GitHub Pages and Firebase Hosting.\n\n\n\n\n\nNext.js for server-side rendering and static site generation.\nAdvanced algorithms and data structures with a focus on performance optimization.\nCloud computing practices and DevOps tools, including Docker, Kubernetes, and CI/CD.\n\n\n\n\n\nOpen-source projects that push the boundaries of education, accessibility, and social good.\nApplications and platforms focused on automation, AI, or data-driven decision making.\nMachine learning, natural language processing, and data science projects.\n\n\n\n\n\nPython scripting for automation and data manipulation.\nFull-stack web development workflows, from front-end to back-end.\nSolving complex issues related to distributed systems and cross-platform compatibility.\n\n\n\n\n\nLinkedIn: Add your LinkedIn profile URL here.\nEmail: Add your email address here.\n\n\n\n\nI’m fluent in several languages, and I’m passionate about exploring the intersection between culture, technology, and machine learning to solve global challenges."
   },
   {
     "objectID": "index.html#title-2-header",
@@ -377,5 +377,82 @@
     "title": "João Banks’s CV",
     "section": "",
     "text": "Libraries/Tools scikit-learn, NumPy, Pandas, SciPy, TensorFlow, PyTorch, Julia, MATLAB, R.\n\n\n\nLanguages/Frameworks Python, Java, Node.js, C#, PHP, Ruby, SQL, Express.js, Spring / Spring Boot, FastAPI, Flask, Django."
+  },
+  {
+    "objectID": "index.html#currently-working-on",
+    "href": "index.html#currently-working-on",
+    "title": "About Me",
+    "section": "",
+    "text": "Developing a scalable web application with Google Firebase for authentication, real-time database, and cloud storage integration.\nBuilding full-stack web applications using Node.js, Express.js, MongoDB, and React.js.\nOptimizing my portfolio and deploying projects with modern tools like GitHub Pages and Firebase Hosting."
+  },
+  {
+    "objectID": "index.html#currently-learning",
+    "href": "index.html#currently-learning",
+    "title": "About Me",
+    "section": "",
+    "text": "Next.js for server-side rendering and static site generation.\nAdvanced algorithms and data structures with a focus on performance optimization.\nCloud computing practices and DevOps tools, including Docker, Kubernetes, and CI/CD."
+  },
+  {
+    "objectID": "index.html#looking-to-collaborate-on",
+    "href": "index.html#looking-to-collaborate-on",
+    "title": "About Me",
+    "section": "",
+    "text": "Open-source projects that push the boundaries of education, accessibility, and social good.\nApplications and platforms focused on automation, AI, or data-driven decision making.\nMachine learning, natural language processing, and data science projects."
+  },
+  {
+    "objectID": "index.html#ask-me-about",
+    "href": "index.html#ask-me-about",
+    "title": "About Me",
+    "section": "",
+    "text": "Python scripting for automation and data manipulation.\nFull-stack web development workflows, from front-end to back-end.\nSolving complex issues related to distributed systems and cross-platform compatibility."
+  },
+  {
+    "objectID": "index.html#how-to-reach-me",
+    "href": "index.html#how-to-reach-me",
+    "title": "About Me",
+    "section": "",
+    "text": "LinkedIn: Add your LinkedIn profile URL here.\nEmail: Add your email address here."
+  },
+  {
+    "objectID": "index.html#fun-fact",
+    "href": "index.html#fun-fact",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m fluent in several languages, and I’m passionate about exploring the intersection between culture, technology, and machine learning to solve global challenges."
+  },
+  {
+    "objectID": "index.html#programming-languages",
+    "href": "index.html#programming-languages",
+    "title": "About Me",
+    "section": "💻 Programming Languages",
+    "text": "💻 Programming Languages\n\nPython\nJavaScript\nTypeScript\nJava\nC++"
+  },
+  {
+    "objectID": "index.html#web-development",
+    "href": "index.html#web-development",
+    "title": "About Me",
+    "section": "🌐 Web Development",
+    "text": "🌐 Web Development\n\nHTML\nCSS\nReact.js\nNode.js\nExpress.js\nMongoDB\nFirebase"
+  },
+  {
+    "objectID": "index.html#algorithms-data-structures",
+    "href": "index.html#algorithms-data-structures",
+    "title": "About Me",
+    "section": "🧠 Algorithms & Data Structures",
+    "text": "🧠 Algorithms & Data Structures\n\nGraph Theory\nDynamic Programming\nSorting Algorithms\nSearching Algorithms"
+  },
+  {
+    "objectID": "index.html#tools-technologies",
+    "href": "index.html#tools-technologies",
+    "title": "About Me",
+    "section": "🛠️ Tools & Technologies",
+    "text": "🛠️ Tools & Technologies\n\nDocker\nKubernetes\nAWS\nGit\nGitHub Actions\nRESTful APIs\nMicroservices"
+  },
+  {
+    "objectID": "index.html#other-skills",
+    "href": "index.html#other-skills",
+    "title": "About Me",
+    "section": "📈 Other Skills",
+    "text": "📈 Other Skills\n\nUnit Testing\nCI/CD\nAgile Methodologies\nCloud Architecture"
   }
 ]
